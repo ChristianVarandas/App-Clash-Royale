@@ -1,4 +1,4 @@
-# Wiki Royale
+# Royal Wiki
 
 >[!Important]
  >`Equipe e projeto`
