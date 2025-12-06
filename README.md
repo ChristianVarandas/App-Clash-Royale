@@ -12,4 +12,6 @@
 - [Home](https://github.com/ChristianVarandas/App-Clash-Royale/wiki)
 - [Protótipo](https://github.com/ChristianVarandas/App-Clash-Royale/wiki/1.-Prot%C3%B3tipo)
 - [API](https://github.com/ChristianVarandas/App-Clash-Royale/wiki/2.-API)
+- [AAplicativo](https://github.com/ChristianVarandas/App-Clash-Royale/wiki/3.-Aplicativo)
+- [Vídeo](https://github.com/ChristianVarandas/App-Clash-Royale/wiki/4.-Video)
 
